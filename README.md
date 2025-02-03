@@ -6,6 +6,7 @@ A princípio, foi utilizado dois tipos estruturados de dados:
   1. DadosOlimpicos: armazena o código do país, o código da medalha e o gênero da medalha.
   2. CountryCounting: filtra os dados mais importantes para geração de tabelas resumidas (país, tipo de medalha, número total de medalhas, medalhistas mulheres e medalhistas homens).
 Tipos de dados utilizados: matrizes, classes de estruturas, listas de estuturas, conversão de str para int.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The purpose of the algorithm model is to process the medals.csv archive and generate two charts that shows briefly the 2024 Olympics medalists. One of the charts shows a ranking of the countries that obtained the most medals (gold, silver and bronze) and the other chart shows the countries that got in just one genre (woman or man) and the quantity of them.
 At first, it's important to consider that it has been used two struuctured data type in the code:
